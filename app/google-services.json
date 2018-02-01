@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "780182142087",
+    "firebase_url": "https://mytestz-123.firebaseio.com",
+    "project_id": "mytestz-123",
+    "storage_bucket": "mytestz-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780182142087:android:04a74562a9d47c86",
+        "android_client_info": {
+          "package_name": "com.example.android.testnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780182142087-3fjit1rhhcj213fat4nbpc64q1c7jsda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYXYB933PSDJJvouoqFS1dyMLZG5N5hk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
